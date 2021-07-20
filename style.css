@@ -232,6 +232,9 @@ footer.jumbotron {
 }
 
 @media screen and (max-width: 800px) {
+  nav.navbar.navbar-default.navbar-fixed-top.navbar-top {
+    background-color: #f8f8f8;
+  }
   header#section_title {
     padding: 0px;
   }
