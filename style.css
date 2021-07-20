@@ -375,7 +375,9 @@ footer.jumbotron {
     padding-left: 0;
     font-size: 14px;
   }
-
+  footer.jumbotron {
+    margin-bottom: 10px;
+  }
   footer.jumbotron h2 {
     font-size: 24px;
   }
