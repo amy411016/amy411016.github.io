@@ -63,7 +63,7 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-top a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 50% 75%;
-  filter: brightness(0.7);
+  filter: brightness(0.5);
 }
 #section_title .container-fluid {
   color: white;
