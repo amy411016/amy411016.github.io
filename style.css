@@ -59,10 +59,10 @@ nav.navbar.navbar-default.navbar-fixed-top.navbar-top a:hover {
   z-index: -1;
 }
 #section_title .pic1:before {
-  background-image: url(https://i.pinimg.com/564x/ae/f0/1f/aef01f6caa5dd20ea55bbd7c6246d972.jpg);
+  background-image: url(https://i.pinimg.com/564x/da/0a/0d/da0a0df6cc8f78efaa571aff9924af5f.jpg);
   background-size: cover;
   background-attachment: fixed;
-  background-position: bottom center;
+  background-position: 50% 75%;
   filter: brightness(0.7);
 }
 #section_title .container-fluid {
@@ -167,7 +167,7 @@ section#section_detail .col-sm-4.pic1 {
   background-position: center;
 }
 section#section_detail .col-sm-4.pic2 {
-  background-image: url(https://i.pinimg.com/564x/26/16/bd/2616bd08f1d77c7a6ac031f7828addf1.jpg);
+  background-image: url(https://i.pinimg.com/564x/2f/ec/27/2fec2772abf439e417b6903ee076e64c.jpg);
   height: 280px;
   background-size: contain;
   background-repeat: no-repeat;
