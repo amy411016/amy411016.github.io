@@ -396,11 +396,19 @@ footer.jumbotron {
   }
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1200px) and (max-width: 1399.99px) {
   #section_title .col-md-12 {
     padding: 320px 150px;
   }
   #section_title .container-fluid h1 {
     margin-top: -5%;
+  }
+}
+@media screen and (min-width: 1400px) {
+  #section_title .col-md-12 {
+    padding: 400px 150px;
+  }
+  #section_title .container-fluid h1 {
+    margin-top: 0%;
   }
 }
