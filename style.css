@@ -246,10 +246,10 @@ footer.jumbotron {
     padding: 0px;
   }
   header#section_title .col-md-12 {
-    padding: 200px 0px;
+    padding: 220px 0px;
   }
   header#section_title .pic1:before {
-    background-position: 50% 80%;
+    background-position: 50% 90%;
   }
   header#section_title .container-fluid h1 {
     font-size: 30px;
